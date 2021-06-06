@@ -1,0 +1,10 @@
+094afc3 HEAD@{0}: commit: Edycja pliku Lorem_ipsum.txt
+fcad68b HEAD@{1}: checkout: moving from texts to deatheadHeadBranch
+744b845 HEAD@{2}: commit: Kant Rozprawa
+fcad68b HEAD@{3}: commit: Lorem ipsum
+4d1503a HEAD@{4}: checkout: moving from personal_details to texts
+4d1503a HEAD@{5}: commit: E-mail adress
+0a607c2 HEAD@{6}: commit: Index number
+582a573 HEAD@{7}: commit: First name and last name
+f89d6ec HEAD@{8}: checkout: moving from main to personal_details
+f89d6ec HEAD@{9}: clone: from https://github.com/PatrykRutkowski97/WSB_Systemy_kontroli
